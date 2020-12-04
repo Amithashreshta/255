@@ -15,5 +15,5 @@ CMPE255_Unsampled: Direct implementation of the differnet Machine Learning algor
 
 CMPE_255_TERM_project: In this notebook, we have the grid search_cv implementation on the sampled data and the evaluation metrics were also observed. The results generated had high accuracies. 
 
-Note: All the notebooks are made with the help of Google colab. In order to run them, please download the data from https://www.kaggle.com/sobhanmoosavi/us-accidents, extract the files on local system and upload the extracted dataset on your google drive. The initial code for mounting the drive and loading the datatset will work absolutely fine if the above steps are followed correctly. 
+Note: All the notebooks are made with the help of Google colab. In order to run them, please download the data from https://www.kaggle.com/sobhanmoosavi/us-accidents, extract the files on local system and upload the extracted dataset on your google drive under my drive section. The initial code for mounting the drive and loading the datatset will work absolutely fine if the above steps are followed correctly. 
 
