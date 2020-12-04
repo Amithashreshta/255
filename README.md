@@ -8,6 +8,7 @@ Sowmya(002005576)
 
 255 term project
 In the, CMPE_255 repository we have 3 files:
+
 EDA file: The exploratory data analysis to find patterns in data and to check if some of the columns are redundant. In this section we made use of the Plotly library of Python in order to make graphs more interactive. We have tried to analyze the dataset by plotting it for different set of attributes.
 
 CMPE255_Unsampled: Direct implementation of the differnet Machine Learning algorithms. We dropped a few features and performed value imputation, more information regarding the same can be found in the notebook.
